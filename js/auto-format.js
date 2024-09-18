@@ -44,7 +44,7 @@ window.addEventListener("load", function () {
         <div class="header-title" id="header-description">OptiComp</div>
     </a>
     <a href="${homePage}/Project-Menu/" aria-label="Menu page   !">
-        <div class="header-title">| Menu</div>
+        <div class="header-title">| Made with Love by Falken❤️</div>
     </a>
     `
     footerElement.classList.add("footer");
